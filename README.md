@@ -9,4 +9,4 @@ source: [openssl@1.1.1i](https://github.com/openssl/openssl/releases/tag/OpenSSL
 
 * static link (libcrypto, libssl)
 
-* universal x86_64, arm64
+* universal library x86_64, arm64
