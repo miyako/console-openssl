@@ -12,3 +12,5 @@ for use with [blegay/acme_component](https://github.com/blegay/acme_component)
 * architecture: universal (`x86_64` `arm64`)
 
 * minos: Catalina (`10/15`)
+
+* notarised, stapled
