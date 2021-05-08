@@ -7,6 +7,6 @@ for use with [blegay/acme_component](https://github.com/blegay/acme_component)
 
 * source: [openssl@1.1.1i](https://github.com/openssl/openssl/releases/tag/OpenSSL_1_1_1i)
 
-* link: static (`no-shared`) (libcrypto, libssl)
+* link: static (`no-shared`)
 
 * architecture: universal (`x86_64` `arm64`)
